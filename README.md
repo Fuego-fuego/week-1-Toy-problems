@@ -17,10 +17,10 @@ No installations needed to run
 javascript is used to write all solution. 
 [!IMPORTANT]
 Out put displayed on browser console 
-n.
 
 
-## Toy problems 
+
+## Description of Toy problems 
 ### Challenge 1: Student Grade Generator function.
 
 It is a function that prompts the user to input student marks. 
@@ -58,3 +58,9 @@ Use KRA, NHIF, and NSSF values provided in the link below.
 [https://www.aren.co.ke/payroll/taxrates.htm] Links to an external site.
 
 [www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye] Links to an external site.
+
+
+
+## Author and License.
+
+Code copyright Mujesia Nathaniel Maina. Code released under the MIT license.
