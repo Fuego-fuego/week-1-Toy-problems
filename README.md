@@ -6,15 +6,18 @@
 [!NOTE] 
 A single file holds only one solution as per the prerequisite.
 
+
+## Setup 
+
+No installations needed to run
+
+
 ## Usage 
 
 javascript is used to write all solution. 
 [!IMPORTANT]
 Out put displayed on browser console 
-
-## Installation 
-
-No installations needed to run.
+n.
 
 
 ## Toy problems 

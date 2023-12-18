@@ -6,3 +6,6 @@ const benefits = Number(prompt(" What is the total amount of benefits? "));
 const grossSalary = basicSalary + benefits;
 
 
+function taxDeduction (grossSalary){
+    console.log(grossSalary);
+}
