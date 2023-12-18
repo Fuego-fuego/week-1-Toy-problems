@@ -3,11 +3,14 @@
  week 1 Toy Problems is an assignment from, week one phase 1,
  of Moringa school Kenya, software engineering course.
 
-
+[!NOTE] 
+A single file holds only one solution as per the prerequisite.
 
 ## Usage 
 
 javascript is used to write all solution. 
+[!IMPORTANT]
+Out put displayed on browser console 
 
 ## Installation 
 
