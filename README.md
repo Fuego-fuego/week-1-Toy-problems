@@ -27,11 +27,11 @@ It is a function that prompts the user to input student marks.
 The input should be between 0 and 100. 
 The output should correspond the correct grade, as shown below: 
 
-        1. **A - > 79**
-        2. **B - 60 to 79**
-        3. **C - 59 to 49**
-        4. **D - 40 to 49**
-        5. **E - less 40**
+        1. A - > 79
+        2. B - 60 to 79
+        3. C - 59 to 49
+        4. D - 40 to 49
+        5. E - less 40
 
  
 
